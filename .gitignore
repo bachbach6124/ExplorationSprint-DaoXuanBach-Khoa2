@@ -1,0 +1,8 @@
+# Local files and sensitive research material should not be committed
+.env
+*.mp3
+*.m4a
+*.wav
+
+# Keep only anonymised, approved screenshots in the repository
+private/
